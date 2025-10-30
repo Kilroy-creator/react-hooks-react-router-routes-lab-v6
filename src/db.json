@@ -1,0 +1,38 @@
+{
+  "movies": [
+    { "id": 1, "title": "Doctor Strange" },
+    { "id": 2, "title": "Pitch Perfect" },
+    { "id": 3, "title": "Up in the Air" },
+    { "id": 4, "title": "The Dark Knight" },
+    { "id": 5, "title": "Inception" },
+    { "id": 6, "title": "The Imitation Game" },
+    { "id": 7, "title": "Black Mass" },
+    { "id": 8, "title": "The Last Samurai" },
+    { "id": 9, "title": "Blood Diamond" },
+    { "id": 10, "title": "The Exorcism of Emily Rose" },
+    { "id": 11, "title": "Sinister" },
+    { "id": 12, "title": "Trolls" },
+    { "id": 13, "title": "Alvin and the Chipmunks: Chipwrecked" }
+  ],
+
+  "actors": [
+    { "id": 1, "name": "Anna Kendrick", "movies": ["Pitch Perfect", "Up in the Air", "Trolls"] },
+    { "id": 2, "name": "Christian Bale", "movies": ["The Dark Knight", "Inception"] },
+    { "id": 3, "name": "Benedict Cumberbatch", "movies": ["Doctor Strange"] },
+    { "id": 4, "name": "Justin Timberlake", "movies": ["The Imitation Game"] },
+    { "id": 5, "name": "Johnny Depp", "movies": ["Black Mass"] },
+    { "id": 6, "name": "Tom Cruise", "movies": ["The Last Samurai"] },
+    { "id": 7, "name": "Leonardo DiCaprio", "movies": ["Blood Diamond"] },
+    { "id": 8, "name": "Jennifer Lawrence", "movies": ["The Exorcism of Emily Rose"] },
+    { "id": 9, "name": "Ethan Hawke", "movies": ["Sinister"] },
+    { "id": 10, "name": "Scarlett Johansson", "movies": ["Doctor Strange"] },
+    { "id": 11, "name": "Michael Caine", "movies": ["Inception"] }
+  ],
+
+  "directors": [
+    { "id": 1, "name": "Edward Zwick", "movies": ["The Last Samurai", "Blood Diamond", "Trolls", "Alvin and the Chipmunks: Chipwrecked"] },
+    { "id": 2, "name": "Christopher Nolan", "movies": ["The Dark Knight", "Inception"] },
+    { "id": 3, "name": "Scott Derrickson", "movies": ["Doctor Strange", "The Exorcism of Emily Rose"] },
+    { "id": 4, "name": "Mike Mitchell", "movies": ["Sinister"] }
+  ]
+}

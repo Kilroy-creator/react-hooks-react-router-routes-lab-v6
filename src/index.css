@@ -1,12 +1,19 @@
-span {
-    margin: 0px 2px;
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
 }
 
-article {
-    border: solid 1px;
-    border-radius: 5px;
-    margin: 5px;
-    max-width: 350px;
-    box-sizing: border-box;
-    padding: 5px;
+nav {
+  margin-bottom: 20px;
+}
+
+nav a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: blue;
+}
+
+nav a.active {
+  font-weight: bold;
+  text-decoration: underline;
 }
